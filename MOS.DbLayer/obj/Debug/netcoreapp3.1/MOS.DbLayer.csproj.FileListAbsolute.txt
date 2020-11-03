@@ -1,0 +1,12 @@
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\bin\Debug\netcoreapp3.1\MOS.DbLayer.deps.json
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\bin\Debug\netcoreapp3.1\MOS.DbLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\obj\Debug\netcoreapp3.1\MOS.DbLayer.csprojAssemblyReference.cache
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\obj\Debug\netcoreapp3.1\MOS.DbLayer.AssemblyInfoInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\obj\Debug\netcoreapp3.1\MOS.DbLayer.AssemblyInfo.cs
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\bin\Debug\netcoreapp3.1\MOS.DbLayer.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\bin\Debug\netcoreapp3.1\MOS.Domain.dll
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\bin\Debug\netcoreapp3.1\MOS.Domain.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\obj\Debug\netcoreapp3.1\MOS.DbLayer.csproj.CoreCompileInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\obj\Debug\netcoreapp3.1\MOS.DbLayer.csproj.CopyComplete
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\obj\Debug\netcoreapp3.1\MOS.DbLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.DbLayer\obj\Debug\netcoreapp3.1\MOS.DbLayer.pdb

@@ -1,0 +1,8 @@
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\bin\Debug\netcoreapp3.1\MOS.Domain.deps.json
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\bin\Debug\netcoreapp3.1\MOS.Domain.dll
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\obj\Debug\netcoreapp3.1\MOS.Domain.AssemblyInfoInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\obj\Debug\netcoreapp3.1\MOS.Domain.AssemblyInfo.cs
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\bin\Debug\netcoreapp3.1\MOS.Domain.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\obj\Debug\netcoreapp3.1\MOS.Domain.csproj.CoreCompileInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\obj\Debug\netcoreapp3.1\MOS.Domain.dll
+E:\MyWork\Test\MyOnlineShop\MOS.Domain\obj\Debug\netcoreapp3.1\MOS.Domain.pdb

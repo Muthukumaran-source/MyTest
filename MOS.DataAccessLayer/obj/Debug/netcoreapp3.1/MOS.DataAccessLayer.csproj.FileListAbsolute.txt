@@ -1,0 +1,14 @@
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\bin\Debug\netcoreapp3.1\MOS.DataAccessLayer.deps.json
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\bin\Debug\netcoreapp3.1\MOS.DataAccessLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\bin\Debug\netcoreapp3.1\MOS.DataAccessLayer.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\bin\Debug\netcoreapp3.1\MOS.DbLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\bin\Debug\netcoreapp3.1\MOS.Domain.dll
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\bin\Debug\netcoreapp3.1\MOS.DbLayer.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\bin\Debug\netcoreapp3.1\MOS.Domain.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\obj\Debug\netcoreapp3.1\MOS.DataAccessLayer.csprojAssemblyReference.cache
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\obj\Debug\netcoreapp3.1\MOS.DataAccessLayer.AssemblyInfoInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\obj\Debug\netcoreapp3.1\MOS.DataAccessLayer.AssemblyInfo.cs
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\obj\Debug\netcoreapp3.1\MOS.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\obj\Debug\netcoreapp3.1\MOS.DataAccessLayer.csproj.CopyComplete
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\obj\Debug\netcoreapp3.1\MOS.DataAccessLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.DataAccessLayer\obj\Debug\netcoreapp3.1\MOS.DataAccessLayer.pdb

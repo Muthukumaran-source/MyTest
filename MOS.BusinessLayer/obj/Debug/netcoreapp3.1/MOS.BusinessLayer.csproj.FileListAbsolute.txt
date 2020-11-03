@@ -1,0 +1,16 @@
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.BusinessLayer.deps.json
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.BusinessLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\obj\Debug\netcoreapp3.1\MOS.BusinessLayer.csprojAssemblyReference.cache
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\obj\Debug\netcoreapp3.1\MOS.BusinessLayer.AssemblyInfoInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\obj\Debug\netcoreapp3.1\MOS.BusinessLayer.AssemblyInfo.cs
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.BusinessLayer.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.DataAccessLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.DbLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.Domain.dll
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.DataAccessLayer.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.DbLayer.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\bin\Debug\netcoreapp3.1\MOS.Domain.pdb
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\obj\Debug\netcoreapp3.1\MOS.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\obj\Debug\netcoreapp3.1\MOS.BusinessLayer.csproj.CopyComplete
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\obj\Debug\netcoreapp3.1\MOS.BusinessLayer.dll
+E:\MyWork\Test\MyOnlineShop\MOS.BusinessLayer\obj\Debug\netcoreapp3.1\MOS.BusinessLayer.pdb
