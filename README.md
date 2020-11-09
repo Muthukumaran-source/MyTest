@@ -1,2 +1,2 @@
 # MyTest
-Web API for Online Shop
+code test progams and data models
